@@ -1,0 +1,3 @@
+post-build=lge/w7_global_com/release-keys,w7:4.4.4
+post-timestamp=1436743525
+pre-device=w7

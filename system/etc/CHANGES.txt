@@ -1,0 +1,293 @@
+===================================
+Since Mon Jul  6 04:57:15 UTC 2015
+===================================
+
+   * frameworks/base
+751ec55 SystemUI: Fix mdpi ethernet indicator size
+
+===================================
+Since Sun Jun 14 22:24:27 UTC 2015
+===================================
+
+   * external/koush/Superuser
+4053d97 Automatic translation import
+
+   * external/whispersystems/WhisperPush
+0677428 Automatic translation import
+
+   * frameworks/base
+163fbd5 Automatic translation import
+
+   * hardware/qcom/fm
+a7d7517 Automatic translation import
+
+   * packages/apps/Apollo
+3980ba7 Automatic translation import
+
+   * packages/apps/Bluetooth
+f1e6e5f Automatic translation import
+
+   * packages/apps/BluetoothExt
+18177e3 Automatic translation import
+
+   * packages/apps/Browser
+bf05794 Automatic translation import
+
+   * packages/apps/CMAccount
+a094465 Automatic translation import
+
+   * packages/apps/CMBugReport
+ae85ce0 Automatic translation import
+
+   * packages/apps/CMFileManager
+efbe940 Automatic translation import
+
+   * packages/apps/CMHome
+1bb3692 Automatic translation import
+
+   * packages/apps/CMUpdater
+02460d5 Automatic translation import
+
+   * packages/apps/CMWallpapers
+68d5387 Automatic translation import
+
+   * packages/apps/Calculator
+9ee719f Automatic translation import
+
+   * packages/apps/Calendar
+8bbc8c9 Automatic translation import
+
+   * packages/apps/Camera2
+1855d08 Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver
+28b3f21 Automatic translation import
+
+   * packages/apps/Contacts
+1657ca4 Automatic translation import
+
+   * packages/apps/ContactsCommon
+c458132 Automatic translation import
+
+   * packages/apps/DSPManager
+4597fa5 Automatic translation import
+
+   * packages/apps/DeskClock
+44cb1d4 Automatic translation import
+
+   * packages/apps/Dialer
+87a8ce3 Automatic translation import
+
+   * packages/apps/Email
+66aec77 Automatic translation import
+
+   * packages/apps/Gallery2
+0bf22a5 Automatic translation import
+
+   * packages/apps/InCallUI
+827163b Automatic translation import
+
+   * packages/apps/LockClock
+d782e74 Automatic translation import
+
+   * packages/apps/Mms
+c2275fb Automatic translation import
+
+   * packages/apps/Settings
+09230fb Automatic translation import
+
+   * packages/apps/SoundRecorder
+d1ce9f7 Automatic translation import
+
+   * packages/apps/Stk
+a38ca2e Automatic translation import
+
+   * packages/apps/ThemeChooser
+033270c Automatic translation import
+
+   * packages/apps/Torch
+80a8dba Automatic translation import
+
+   * packages/apps/Trebuchet
+fd9e6ec Automatic translation import
+
+   * packages/apps/UnifiedEmail
+46d9d7d Automatic translation import
+
+   * packages/inputmethods/LatinIME
+96eac2e Automatic translation import
+
+   * packages/providers/ContactsProvider
+a01af6a Automatic translation import
+
+   * packages/providers/DownloadProvider
+6178d0e Automatic translation import
+
+   * packages/providers/ThemesProvider
+f9b8df2 Automatic translation import
+
+   * packages/providers/UserDictionaryProvider
+64d9b51 Automatic translation import
+
+   * packages/services/Telephony
+5b1a816 Automatic translation import
+
+   * packages/wallpapers/Galaxy4
+58e75c8 Automatic translation import
+
+   * packages/wallpapers/PhaseBeam
+ae71bdd Automatic translation import
+
+   * packages/wallpapers/PhotoPhase
+e68a07d Automatic translation import
+
+===================================
+Since Sun Jun  7 07:55:12 UTC 2015
+===================================
+
+   * vendor/cm
+aa6bbf0 Update Sonera APNs
+58472d8 apn: Add China Telecomm 4G APN support
+
+===================================
+Since Sun May 31 21:56:54 UTC 2015
+===================================
+
+   * vendor/cm
+26b03fc Update Ting GSM APNs
+ee74bb9 Deprecate epc.tmobile.com APN
+04f954d APNs: Correct MMSC for HoT Austria
+7829307 Temp fix for Bouygues telecom issues
+36fed2e apns: Removed APN configuration for Noverca.
+
+===================================
+Since Sun May 24 12:14:45 UTC 2015
+===================================
+
+   * external/koush/Superuser
+fff6d3d Automatic translation import
+
+   * external/whispersystems/WhisperPush
+5162e24 Automatic translation import
+
+   * frameworks/base
+58e985c Automatic translation import
+
+   * hardware/qcom/fm
+c7e39ec Automatic translation import
+
+   * packages/apps/Apollo
+20eccdc Automatic translation import
+
+   * packages/apps/Bluetooth
+9fc6181 Automatic translation import
+
+   * packages/apps/BluetoothExt
+2df3f1d Automatic translation import
+
+   * packages/apps/Browser
+0f54616 Automatic translation import
+
+   * packages/apps/CMAccount
+fc7d7c8 Automatic translation import
+
+   * packages/apps/CMBugReport
+60629c6 Automatic translation import
+
+   * packages/apps/CMFileManager
+7414d3f Automatic translation import
+
+   * packages/apps/CMHome
+2a8d6b7 Automatic translation import
+
+   * packages/apps/CMUpdater
+55b3d05 Automatic translation import
+
+   * packages/apps/CMWallpapers
+d210044 Automatic translation import
+
+   * packages/apps/Calculator
+9c04e35 Automatic translation import
+
+   * packages/apps/Calendar
+528a52f Automatic translation import
+
+   * packages/apps/Camera2
+4e16182 Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver
+3e584a8 Automatic translation import
+
+   * packages/apps/Contacts
+b207895 Automatic translation import
+
+   * packages/apps/ContactsCommon
+e5ed9ba Automatic translation import
+
+   * packages/apps/DSPManager
+03657fa Automatic translation import
+
+   * packages/apps/DeskClock
+719baee Automatic translation import
+
+   * packages/apps/Dialer
+16ca408 Automatic translation import
+
+   * packages/apps/Email
+f81c5f2 Automatic translation import
+
+   * packages/apps/Gallery2
+932eb3c Automatic translation import
+
+   * packages/apps/InCallUI
+b9edcad Automatic translation import
+
+   * packages/apps/LockClock
+7c005ca Automatic translation import
+
+   * packages/apps/Mms
+fbdceee Automatic translation import
+e7624a0 Mms: setInputType in ComposeMessageActivity during onResume
+
+   * packages/apps/Settings
+cb75ca9 Automatic translation import
+
+   * packages/apps/SoundRecorder
+219d136 Automatic translation import
+
+   * packages/apps/Stk
+5b106e9 Automatic translation import
+
+   * packages/apps/ThemeChooser
+10ffa81 Automatic translation import
+
+   * packages/apps/Torch
+cb697ba Automatic translation import
+
+   * packages/apps/Trebuchet
+a9291ea Automatic translation import
+
+   * packages/apps/UnifiedEmail
+9a348e8 Automatic translation import
+
+   * packages/apps/VoicePlus
+a58bd02 Automatic translation import
+
+   * packages/inputmethods/LatinIME
+417e13f Automatic translation import
+
+   * packages/providers/ContactsProvider
+529c87e Automatic translation import
+
+   * packages/providers/DownloadProvider
+7e938de Automatic translation import
+
+   * packages/services/Telephony
+c8eceef Automatic translation import
+
+   * packages/wallpapers/PhotoPhase
+2849fd9 Automatic translation import
+
+   * vendor/cm
+477ee61 Drop hipri,supl from Smartfren4G
+
